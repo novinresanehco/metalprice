@@ -1,0 +1,6 @@
+{
+  "name": "Metal Price Dashboard",
+  "description": "A dashboard to view the latest prices of various metals, get AI-powered market analysis, and generate embeddable widgets for your website. The app is presented in Persian.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
